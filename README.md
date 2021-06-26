@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Next, MERN, AWS 
 - 👯 I’m looking to collaborate on ... React, React Native
 - 🤔 I’m looking for help with ... AWS, React Native
-- 💬 Ask me about ... Anything we have on your localStorage. 
+- 💬 Ask me about ... Anything we have on. 
 - 📫 How to reach me: ... Portfoilo(https://rajeevrajchal.web.app/)
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... Being a developer, I enjoy myself, taking photos and learning new tech.
