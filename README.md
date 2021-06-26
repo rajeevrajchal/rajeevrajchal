@@ -1,4 +1,4 @@
-### Hi there, How's You Doing. This is what I am me from inside.  👋
+### Hi there, How's You Doing. This is me Rajeev.  👋
 
 Here are some ideas to get you started:
 - 🪑 I'm currently working as ... junior software engineer at Growthzilla.
