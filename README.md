@@ -1,7 +1,7 @@
 ### Hi there, How's You Doing. This is me Rajeev.  👋
 
 Here are some ideas to get you started:
-- 🪑 I'm currently working as ... junior software engineer at Growthzilla.
+- 🪑 I'm currently working as ... Software Engineer at Growthzilla.
 - 🔭 I have worked at ...ITGlance, KiteNepal, CloudFactory .
 - 🌱 I’m currently learning ... Next, MERN, AWS 
 - 👯 I’m looking to collaborate on ... React, React Native
