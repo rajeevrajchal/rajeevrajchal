@@ -5,7 +5,7 @@ Web Developer | React | Next | Node
 -----------------------------------
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [rajeevrajchal.web.app (firebase hoisting)](http://rajeevrajchal.web.app/)
+* 🖥️  See my portfolio at [https://rajeev-me.vercel.app (vercel hoisting)](https://rajeev-me.vercel.app/)
 * ✉️  You can contact me at [rajeevrajchal12@gmail.com](mailto:rajeevrajchal12@gmail.com)
 * 🚀  I'm currently working on [Next Level Value](http://nextlevelvalue.com/)
 * 🧠  I'm learning Next, Tailwind, React Native, Web3
