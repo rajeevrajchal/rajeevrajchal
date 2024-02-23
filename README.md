@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Javascript
 -------------------------------
 
-I'm a passionate software developer with 4+ years of experience crafting user-centric web applications. My expertise spans both frontend (React, JavaScript, TypeScript, Next.js) and backend (Nest, Express), allowing me to build captivating UIs, robust systems, and pixel-perfect designs. Excel in collaborative settings, seamlessly integrating into teams to drive project success. Extensive expertise in HTML/CSS, testing, debugging, and Git ensures streamlined workflows and top-tier solutions. Innately self-motivated with a penchant for innovation, consistently delivering solutions that exceed client expectations and industry benchmarks. Embrace emerging technologies and cutting-edge methodologies for future-proof development. Passionate about delivering exceptional online experiences that surpass expectations. Actively seeking opportunities to leverage a diverse skill set and contribute meaningfully to projects and sectors, striving to make a real impact.
+I'm Rajeev, a software developer who loves creating awesome user experiences with neat and effective code. With 4 years of experience, I've become skilled at building web applications that work smoothly.
+
+Beyond technical expertise, I believe in the power of knowledge sharing. That's why I'm actively involved in the developer community, contributing insights and collaborating on projects. My goal is to not only refine my own skills but also empower others to create better web experiences together.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/rajeevrajchal/)
