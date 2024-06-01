@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rajeev Rajchal from Nepal<br><br>- 🔭 I’m working as a software developer @ Auditbull | Next Level Value.<br>- 📚 I'm currently learning Next, Nest.<br>- ⚡ In my free time, I upgrade myself with JavaScript and build projects.</p>
+<p align="left">I'm Rajeev Rajchal @ Aarhus Denmark<br><br>- 🔭 I’m working as a software developer @ Auditbull | Next Level Value.<br>- 📚 I'm currently learning Next, Nest.<br>- ⚡ In my free time, I upgrade myself with JavaScript and build projects.</p>
 
 ###
 
