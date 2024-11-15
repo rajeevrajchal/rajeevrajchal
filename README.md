@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajeev Rajchal</h1>
 <h3 align="center">Software Developer | Frontend</h3>
 
-- 🔭 I’m currently working on [Auditbull](https://auditbull.com/)
-
-- 🌱 I’m currently learning **Next, Nest, Angular**
+- 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://rajeevrajchal.com.np/](https://rajeevrajchal.com.np/)
 
-- 💬 Ask me about **Javascript, Typescript, React, Angular**
+- 💬 Ask me about **Javascript, Typescript, Svelte, React, Angular**
 
 - 📫 How to reach me **rajeevrajchal12@gmail.com**
 
