@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Developer | Building Seamless Web Experiences<br><br>Transforming complex designs into seamless, interactive user interfaces with years of expertise in cutting-edge frontend technologies</p>
+<p align="left">Software Developer | Building Seamless App Experiences<br><br>Transforming complex designs into seamless, interactive user interfaces with years of expertise in cutting-edge frontend technologies</p>
 
 ###
 
