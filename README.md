@@ -44,8 +44,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.upwork.com/freelancers/~01f0978587bed2e79c" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" width="52" height="40" alt="upwork logo"  />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-2878870.png" width="52" height="40" alt="upwork logo"  />
   </a>
 </div>
-
 ###
